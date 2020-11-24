@@ -1,8 +1,24 @@
-### Hi there 👋
+### Hi there! I'm Hassan DgrinderHZ 👋
 
 <!--
 **DgrinderHZ/DgrinderHZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
+
+- 🔭 I’m currently working on my own portfolio
+- 🌱 I’m currently learning Django and React
+
+:man_technologist: You can currently find me coding either the [@ZeekZone](https://github.com/zeekzone-labs) webpage, or making courses for [@ZeekZone YT](https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw). Previously I've worked at [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr) as a programming teacher.
+
+:rocket: People typically know me from my work on [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr).
+
+- 📫 How to reach me: Twitter --> Check the left side!
+
+
+
+
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +29,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
