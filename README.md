@@ -5,12 +5,12 @@
 -->
 
 
-- 🔭 I’m currently working on my own [portfolio](http://zeekzone.pythonanywhere.com/){:target="_blank"} (Django projects)
+- 🔭 I’m currently working on my own <a href="http://zeekzone.pythonanywhere.com/" target="_blank">Portfolio</a> (Django projects)
 - 🌱 I’m currently learning Django and Vue/React.js
 
-:man_technologist: You can currently find me coding either the [@ZeekZone](https://github.com/zeekzone-labs){:target="_blank"} webpage, or making courses for [@ZeekZone YT](https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw){:target="_blank"}. Previously I've worked at [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr){:target="_blank"} as a programming teacher.
+:man_technologist: You can currently find me coding either the <a href="https://github.com/zeekzone-labs" target="_blank">@ZeekZone</a> webpage, or making courses for <a href="https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw" target="_blank">@ZeekZone YT</a>. Previously I've worked at <a href="https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr" target="_blank">@Access Center</a> as a programming teacher.
 
-:rocket: People typically know me from my work on [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr){:target="_blank"}.
+:rocket: People typically know me from my work on <a href="https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr" target="_blank">@Access Center</a>.
 
 - 📫 How to reach me: Twitter
 
