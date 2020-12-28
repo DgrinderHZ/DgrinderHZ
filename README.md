@@ -5,14 +5,14 @@
 -->
 
 
-- 🔭 I’m currently working on my own [portfolio](http://zeekzone.pythonanywhere.com/) (Django projects)
+- 🔭 I’m currently working on my own [portfolio](http://zeekzone.pythonanywhere.com/){:target="_blank"} (Django projects)
 - 🌱 I’m currently learning Django and Vue/React.js
 
-:man_technologist: You can currently find me coding either the [@ZeekZone](https://github.com/zeekzone-labs) webpage, or making courses for [@ZeekZone YT](https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw). Previously I've worked at [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr) as a programming teacher.
+:man_technologist: You can currently find me coding either the [@ZeekZone](https://github.com/zeekzone-labs){:target="_blank"} webpage, or making courses for [@ZeekZone YT](https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw){:target="_blank"}. Previously I've worked at [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr){:target="_blank"} as a programming teacher.
 
-:rocket: People typically know me from my work on [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr).
+:rocket: People typically know me from my work on [@Access Center](https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr){:target="_blank"}.
 
-- 📫 How to reach me: Twitter --> Check the left side!
+- 📫 How to reach me: Twitter
 
 
 
