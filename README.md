@@ -5,14 +5,17 @@
 -->
 
 
-- 🔭 I’m currently working on my own <a href="http://zeekzone.pythonanywhere.com/" target="_blank">Portfolio</a> (Django projects)
-- 🌱 I’m currently learning Django and Vue/React.js
+- 🔭 I’m currently working on as a freelancer ✨ (Software development, Data science, teaching...)
+- ✨ I am tutor at <a href="https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw" target="_blank">@ZeekZone YT</a>
+- 🌱 I’m currently preparing my PhD thesis and improving my skills...
 
 :man_technologist: You can currently find me coding either the <a href="https://github.com/zeekzone-labs" target="_blank">@ZeekZone</a> webpage, or making courses for <a href="https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw" target="_blank">@ZeekZone YT</a>. Previously I've worked at <a href="https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr" target="_blank">@Access Center</a> as a programming teacher.
 
-:rocket: People typically know me from my work on <a href="https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr" target="_blank">@Access Center</a>.
+:rocket: People typically know me from my work at:
+- <a href="https://web.facebook.com/accesscentreErr/?_rdc=1&_rdr" target="_blank">@Access Center</a>
+- <a href="https://www.youtube.com/channel/UCoxitqi0kAXKo_3qMUkJnbw" target="_blank">@ZeekZone YT</a>
 
-- 📫 How to reach me: Twitter
+- 📫 How to reach me: +212656139568
 
 
 
